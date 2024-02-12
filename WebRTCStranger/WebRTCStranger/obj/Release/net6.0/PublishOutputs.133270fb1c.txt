@@ -1,0 +1,11 @@
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\WebRTCStranger.exe
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\appsettings.json
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\WebRTCStranger.dll
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\WebRTCStranger.deps.json
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\WebRTCStranger.runtimeconfig.json
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\WebRTCStranger.pdb
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\POC\WebRTCStranger\WebRTCStranger\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

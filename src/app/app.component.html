@@ -1,0 +1,14 @@
+User : {{userdetails.from}}
+<br>
+<div *ngFor="let a of connectedUsers; let i = index">
+  <span *ngIf="userdetails.from != a" (click)="settouser(a)">
+    {{a}}
+    <button (click)="StartVideoCall(a)">Start Call</button>
+  </span>
+</div>
+
+<br>
+<video playsinline autoplay="true" #localVideo muted class="localVideo" id="localVideo"></video>
+<video playsinline autoplay="true" #remoteVideo id="remoteVideo"></video>
+
+<router-outlet></router-outlet>
